@@ -54,7 +54,7 @@ Min SDK: API 26 (Android 8.0)
 # 解除隐藏 API 调用限制
 adb shell settings put global hidden_api_policy 1
 ```
-### 📂项目结构
+## 📂项目结构
 src/  
 ├── main/  
 │   ├── java/com/imsi/imei/activities/  
