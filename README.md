@@ -55,13 +55,13 @@ Min SDK: API 26 (Android 8.0)
 adb shell settings put global hidden_api_policy 1
 ```
 ### 📂项目结构
-src/
-├── main/
-│   ├── java/com/imsi/imei/activities/
-│   │   ├── MainActivity.java              // 主入口 
-│   │   ├── HardwareInfoActivity.java      // 硬件信息页 
-│   │   ├── SoftwareInfoActivity.java      // 软件信息页 
-│   │   └── SimInfoActivity.java           // SIM信息页 
-│   └── java/com/imsi/imei/res/
-│       └── layout/                        // UI 布局文件
+src/  
+├── main/  
+│   ├── java/com/imsi/imei/activities/  
+│   │   ├── MainActivity.java              // 主入口   
+│   │   ├── HardwareInfoActivity.java      // 硬件信息页   
+│   │   ├── SoftwareInfoActivity.java      // 软件信息页   
+│   │   └── SimInfoActivity.java           // SIM信息页   
+│   └── java/com/imsi/imei/res/  
+│       └── layout/                        // UI 布局文件  
 └── AndroidManifest.xml
