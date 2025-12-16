@@ -1,0 +1,148 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.imsi.imei"
+4    android:versionCode="1"
+5    android:versionName="2.2.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml
+10
+11    <!-- 添加存储权限 -->
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:7:5-81
+12-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:8:5-80
+13-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:8:22-77
+14
+15    <uses-feature
+15-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:10:5-12:36
+16        android:name="android.hardware.telephony"
+16-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:11:9-50
+17        android:required="false" />
+17-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:12:9-33
+18
+19    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+19-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:14:5-74
+19-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:14:22-72
+20    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+20-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:15:5-79
+20-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:15:22-76
+21    <uses-permission android:name="android.permission.READ_SMS" />
+21-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:17:5-66
+21-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:17:22-64
+22    <uses-permission android:name="android.permission.READ_PHONE_NUMBERS" />
+22-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:18:5-76
+22-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:18:22-74
+23    <uses-permission android:name="android.permission.INTERNET" />
+23-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:20:5-67
+23-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:20:22-64
+24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+24-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:21:5-79
+24-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:21:22-76
+25    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+25-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:23:5-81
+25-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:23:22-78
+26
+27    <!-- 系统权限，需要移除或仅在系统应用中使用 -->
+28    <!--
+29    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE"
+30        tools:ignore="ProtectedPermissions" />
+31
+32    <uses-permission android:name="android.permission.MASTER_CLEAR"/>
+33    <uses-permission android:name="android.permission.RESET_PERMISSIONS"/>
+34    -->
+35
+36    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+36-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:34:5-72
+36-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:34:22-69
+37    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+37-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:15:5-79
+37-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:15:22-76
+38    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+38-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:23:5-81
+38-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:23:22-78
+39
+40    <!-- suppress DeprecatedClassUsageInspection -->
+41    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+41-->[androidx.biometric:biometric:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\51b85bcfd97d8c42b54a54b0677b6ef5\transformed\biometric-1.1.0\AndroidManifest.xml:27:5-74
+41-->[androidx.biometric:biometric:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\51b85bcfd97d8c42b54a54b0677b6ef5\transformed\biometric-1.1.0\AndroidManifest.xml:27:22-71
+42
+43    <application
+43-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:39:5-71:19
+44        android:name="androidx.multidex.MultiDexApplication"
+44-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:40:9-61
+45        android:allowBackup="true"
+45-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:41:9-35
+46        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+46-->[androidx.core:core:1.6.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\320cbe67335a5ba51440be7b120211f3\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+47        android:debuggable="true"
+48        android:extractNativeLibs="false"
+49        android:icon="@drawable/ic_launcher"
+49-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:42:9-45
+50        android:label="@string/app_name"
+50-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:43:9-41
+51        android:supportsRtl="true"
+51-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:44:9-35
+52        android:testOnly="true"
+53        android:theme="@style/AppTheme"
+53-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:46:9-40
+54        android:usesCleartextTraffic="true" >
+54-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:45:9-44
+55        <uses-library
+55-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:47:9-48:39
+56            android:name="org.apache.http.legacy"
+56-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:47:23-60
+57            android:required="false" />
+57-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:48:13-37
+58        <!-- usesCleartextTraffic -->
+59
+60        <activity
+60-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:51:9-59:20
+61            android:name="com.imsi.imei.activities.MainActivity"
+61-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:52:13-52
+62            android:exported="true"
+62-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:53:13-36
+63            android:label="@string/app_name" >
+63-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:54:13-45
+64            <intent-filter>
+64-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:55:13-58:29
+65                <action android:name="android.intent.action.MAIN" />
+65-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:56:17-69
+65-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:56:25-66
+66
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:57:17-77
+67-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:57:27-74
+68            </intent-filter>
+69        </activity>
+70        <activity
+70-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:61:9-63:47
+71            android:name="com.imsi.imei.activities.HardwareInfoActivity"
+71-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:61:19-66
+72            android:exported="false"
+72-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:62:13-37
+73            android:label="@string/app_name" />
+73-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:63:13-45
+74        <activity
+74-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:64:9-66:47
+75            android:name="com.imsi.imei.activities.SoftwareInfoActivity"
+75-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:64:19-66
+76            android:exported="false"
+76-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:65:13-37
+77            android:label="@string/app_name" />
+77-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:66:13-45
+78        <activity
+78-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:67:9-69:47
+79            android:name="com.imsi.imei.activities.SimInfoActivity"
+79-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:67:19-61
+80            android:exported="false"
+80-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:68:13-37
+81            android:label="@string/app_name" />
+81-->D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:69:13-45
+82    </application>
+83
+84</manifest>

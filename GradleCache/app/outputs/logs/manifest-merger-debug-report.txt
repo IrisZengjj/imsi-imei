@@ -1,0 +1,291 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:2:1-73:12
+MERGED from [androidx.databinding:viewbinding:7.0.2] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\317777ba4eb6be6866c683be0a1f0fae\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:monitor:1.6.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\f0fa6167b32bdc5512ba32cd96233e89\transformed\monitor-1.6.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\56802cf3e7ed519acc2486dfd83453aa\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\b70b5443d34095f5611d5a80cf1f1977\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.biometric:biometric:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\51b85bcfd97d8c42b54a54b0677b6ef5\transformed\biometric-1.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\b85e87daf4cd1ca31a5449cd4a94e274\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\45e0104caa20e525cf9dbb457c143080\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\3bcbde7f8618f1012ce27407e4546d7f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\a7fbe2b0aec398fabd4542184d25f38b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.3.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\17dff5f6e1b6b8a30016c05c293b7fc7\transformed\browser-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\dc4adab0c31bee01ce80be8bc1d35fe4\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\fc736c80cab888f6609e0984e54571e1\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.6.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\7731c43c0cd947580b3e75a5eeb74d32\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\5b1b7221ec060e4d51708e6c7fdb0503\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\14ecd6cd7210fee38805791eaeb3f3be\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\ed11716d8674e5faaf82e06cbbf89c64\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\0be7a74d21655ac78a3fa6256834a9e2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\c2ee220beeb298cbbb1d8f3a278a6991\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\1412acc2239903fcd1348bca9e04159d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\bb5730a99a2b19e640a15f14f16e1830\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\b2334bb0e5334ef92899e3cb2fd2049c\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\a72234129458df34450cb9a0ab34dbff\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\0c2598eafd2b6f2d5a0a133b3cb39772\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\fa644be928174390225dd67d6cfdff5a\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\3f83ef6985cb4a097aca6cb58dc8bbb6\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\320cbe67335a5ba51440be7b120211f3\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.test:annotation:1.0.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\bbf2d478000bde6f9d250ce778ad845d\transformed\jetified-annotation-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\44f9b884988b6c937df4676f1763037d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\9888b09208fe57d5abdfeb7af91d7a49\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\4515484aa7a271244ee2da2cc012d09a\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\0fba0df04f754fce5e3900ba39b8ecc1\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\9ef4b17853b0f6d23f869353ef90a57d\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\b25a91f17d6db7d8321cb6484f23fa16\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\fb960b845d34f571c86f44e718ff0eba\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\6e7f84a2300d90fd65149b7d8baacd62\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\e6ac38ff3b7da40a0bfbe6c542550bed\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\0f90ab453224da02118922a2adfb6ccc\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\b091e9868cb8eca86ee03e4ff02ee7a8\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\096f0f206806858c65cede285c085dec\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\6683906d8ec57a477bd332765a20e346\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\6fbbc204253b50eb3cdab53d1b0ceb70\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\9cf2df023493e5fd27cd107096a24a48\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:2:1-73:12
+	package
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml
+		INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:2:1-73:12
+		INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:2:1-73:12
+		INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:8:22-77
+uses-feature#android.hardware.telephony
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:10:5-12:36
+	android:required
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:12:9-33
+	android:name
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:11:9-50
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.READ_SMS
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.READ_PHONE_NUMBERS
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:18:22-74
+uses-permission#android.permission.INTERNET
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:34:5-72
+MERGED from [androidx.biometric:biometric:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\51b85bcfd97d8c42b54a54b0677b6ef5\transformed\biometric-1.1.0\AndroidManifest.xml:24:5-72
+MERGED from [androidx.biometric:biometric:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\51b85bcfd97d8c42b54a54b0677b6ef5\transformed\biometric-1.1.0\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:34:22-69
+application
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:39:5-71:19
+MERGED from [com.google.android.material:material:1.4.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\56802cf3e7ed519acc2486dfd83453aa\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\56802cf3e7ed519acc2486dfd83453aa\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\b70b5443d34095f5611d5a80cf1f1977\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\b70b5443d34095f5611d5a80cf1f1977\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.6.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\320cbe67335a5ba51440be7b120211f3\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\320cbe67335a5ba51440be7b120211f3\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\fb960b845d34f571c86f44e718ff0eba\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\fb960b845d34f571c86f44e718ff0eba\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\320cbe67335a5ba51440be7b120211f3\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:44:9-35
+	android:label
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:43:9-41
+	android:icon
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:42:9-45
+	android:allowBackup
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:41:9-35
+	android:theme
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:46:9-40
+	android:usesCleartextTraffic
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:45:9-44
+	android:name
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:40:9-61
+uses-library#org.apache.http.legacy
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:47:9-48:39
+	android:required
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:47:23-60
+activity#com.imsi.imei.activities.MainActivity
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:51:9-59:20
+	android:label
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:54:13-45
+	android:exported
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:52:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:55:13-58:29
+action#android.intent.action.MAIN
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:57:27-74
+activity#com.imsi.imei.activities.HardwareInfoActivity
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:61:9-63:47
+	android:label
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:63:13-45
+	android:exported
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:62:13-37
+	android:name
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:61:19-66
+activity#com.imsi.imei.activities.SoftwareInfoActivity
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:64:9-66:47
+	android:label
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:66:13-45
+	android:exported
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:64:19-66
+activity#com.imsi.imei.activities.SimInfoActivity
+ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:67:9-69:47
+	android:label
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:69:13-45
+	android:exported
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:68:13-37
+	android:name
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml:67:19-61
+uses-sdk
+INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml
+INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.2] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\317777ba4eb6be6866c683be0a1f0fae\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.2] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\317777ba4eb6be6866c683be0a1f0fae\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:monitor:1.6.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\f0fa6167b32bdc5512ba32cd96233e89\transformed\monitor-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.6.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\f0fa6167b32bdc5512ba32cd96233e89\transformed\monitor-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\56802cf3e7ed519acc2486dfd83453aa\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\56802cf3e7ed519acc2486dfd83453aa\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\b70b5443d34095f5611d5a80cf1f1977\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\b70b5443d34095f5611d5a80cf1f1977\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.biometric:biometric:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\51b85bcfd97d8c42b54a54b0677b6ef5\transformed\biometric-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\51b85bcfd97d8c42b54a54b0677b6ef5\transformed\biometric-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\b85e87daf4cd1ca31a5449cd4a94e274\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\b85e87daf4cd1ca31a5449cd4a94e274\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\45e0104caa20e525cf9dbb457c143080\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\45e0104caa20e525cf9dbb457c143080\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\3bcbde7f8618f1012ce27407e4546d7f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\3bcbde7f8618f1012ce27407e4546d7f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\a7fbe2b0aec398fabd4542184d25f38b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\a7fbe2b0aec398fabd4542184d25f38b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\17dff5f6e1b6b8a30016c05c293b7fc7\transformed\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\17dff5f6e1b6b8a30016c05c293b7fc7\transformed\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\dc4adab0c31bee01ce80be8bc1d35fe4\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\dc4adab0c31bee01ce80be8bc1d35fe4\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\fc736c80cab888f6609e0984e54571e1\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\fc736c80cab888f6609e0984e54571e1\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.core:core-ktx:1.6.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\7731c43c0cd947580b3e75a5eeb74d32\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\7731c43c0cd947580b3e75a5eeb74d32\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\5b1b7221ec060e4d51708e6c7fdb0503\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\5b1b7221ec060e4d51708e6c7fdb0503\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\14ecd6cd7210fee38805791eaeb3f3be\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\14ecd6cd7210fee38805791eaeb3f3be\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\ed11716d8674e5faaf82e06cbbf89c64\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\ed11716d8674e5faaf82e06cbbf89c64\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\0be7a74d21655ac78a3fa6256834a9e2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\0be7a74d21655ac78a3fa6256834a9e2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\c2ee220beeb298cbbb1d8f3a278a6991\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\c2ee220beeb298cbbb1d8f3a278a6991\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\1412acc2239903fcd1348bca9e04159d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\1412acc2239903fcd1348bca9e04159d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\bb5730a99a2b19e640a15f14f16e1830\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\bb5730a99a2b19e640a15f14f16e1830\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\b2334bb0e5334ef92899e3cb2fd2049c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\b2334bb0e5334ef92899e3cb2fd2049c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\a72234129458df34450cb9a0ab34dbff\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\a72234129458df34450cb9a0ab34dbff\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\0c2598eafd2b6f2d5a0a133b3cb39772\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\0c2598eafd2b6f2d5a0a133b3cb39772\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\fa644be928174390225dd67d6cfdff5a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\fa644be928174390225dd67d6cfdff5a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\3f83ef6985cb4a097aca6cb58dc8bbb6\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\3f83ef6985cb4a097aca6cb58dc8bbb6\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\320cbe67335a5ba51440be7b120211f3\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\320cbe67335a5ba51440be7b120211f3\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:annotation:1.0.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\bbf2d478000bde6f9d250ce778ad845d\transformed\jetified-annotation-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:annotation:1.0.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\bbf2d478000bde6f9d250ce778ad845d\transformed\jetified-annotation-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\44f9b884988b6c937df4676f1763037d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\44f9b884988b6c937df4676f1763037d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\9888b09208fe57d5abdfeb7af91d7a49\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\9888b09208fe57d5abdfeb7af91d7a49\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\4515484aa7a271244ee2da2cc012d09a\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\4515484aa7a271244ee2da2cc012d09a\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\0fba0df04f754fce5e3900ba39b8ecc1\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\0fba0df04f754fce5e3900ba39b8ecc1\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\9ef4b17853b0f6d23f869353ef90a57d\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\9ef4b17853b0f6d23f869353ef90a57d\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\b25a91f17d6db7d8321cb6484f23fa16\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\b25a91f17d6db7d8321cb6484f23fa16\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\fb960b845d34f571c86f44e718ff0eba\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\fb960b845d34f571c86f44e718ff0eba\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\6e7f84a2300d90fd65149b7d8baacd62\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\6e7f84a2300d90fd65149b7d8baacd62\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\e6ac38ff3b7da40a0bfbe6c542550bed\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\e6ac38ff3b7da40a0bfbe6c542550bed\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\0f90ab453224da02118922a2adfb6ccc\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\0f90ab453224da02118922a2adfb6ccc\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\b091e9868cb8eca86ee03e4ff02ee7a8\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\b091e9868cb8eca86ee03e4ff02ee7a8\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\096f0f206806858c65cede285c085dec\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\096f0f206806858c65cede285c085dec\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\6683906d8ec57a477bd332765a20e346\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\6683906d8ec57a477bd332765a20e346\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\6fbbc204253b50eb3cdab53d1b0ceb70\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\6fbbc204253b50eb3cdab53d1b0ceb70\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\9cf2df023493e5fd27cd107096a24a48\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\9cf2df023493e5fd27cd107096a24a48\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml
+INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml
+		INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml
+		ADDED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml
+		INJECTED from D:\keycloak\IMSIIMEI\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [androidx.biometric:biometric:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\51b85bcfd97d8c42b54a54b0677b6ef5\transformed\biometric-1.1.0\AndroidManifest.xml:27:5-74
+	android:name
+		ADDED from [androidx.biometric:biometric:1.1.0] D:\IMSI-IMEI-master\IMSI-IMEI-master\IMSIIMEI\.gradle\caches\transforms-3\51b85bcfd97d8c42b54a54b0677b6ef5\transformed\biometric-1.1.0\AndroidManifest.xml:27:22-71

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\keycloak\\IMSIIMEI\\GradleCache\\app\\intermediates\\merged_res\\debug\\layout_activity_hardware_info.xml.flat",
+        "source": "D:\\keycloak\\IMSIIMEI\\app\\src\\main\\res\\layout\\activity_hardware_info.xml"
+    },
+    {
+        "merged": "D:\\keycloak\\IMSIIMEI\\GradleCache\\app\\intermediates\\merged_res\\debug\\layout_activity_software_info.xml.flat",
+        "source": "D:\\keycloak\\IMSIIMEI\\app\\src\\main\\res\\layout\\activity_software_info.xml"
+    },
+    {
+        "merged": "D:\\keycloak\\IMSIIMEI\\GradleCache\\app\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\keycloak\\IMSIIMEI\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\keycloak\\IMSIIMEI\\GradleCache\\app\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\keycloak\\IMSIIMEI\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\keycloak\\IMSIIMEI\\GradleCache\\app\\intermediates\\merged_res\\debug\\drawable_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "D:\\keycloak\\IMSIIMEI\\app\\src\\main\\res\\drawable\\baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "D:\\keycloak\\IMSIIMEI\\GradleCache\\app\\intermediates\\merged_res\\debug\\layout_activity_sim_info.xml.flat",
+        "source": "D:\\keycloak\\IMSIIMEI\\app\\src\\main\\res\\layout\\activity_sim_info.xml"
+    },
+    {
+        "merged": "D:\\keycloak\\IMSIIMEI\\GradleCache\\app\\intermediates\\merged_res\\debug\\mipmap-mdpi_clipboard.png.flat",
+        "source": "D:\\keycloak\\IMSIIMEI\\app\\src\\main\\res\\mipmap-mdpi\\clipboard.png"
+    },
+    {
+        "merged": "D:\\keycloak\\IMSIIMEI\\GradleCache\\app\\intermediates\\merged_res\\debug\\drawable_button_primary.xml.flat",
+        "source": "D:\\keycloak\\IMSIIMEI\\app\\src\\main\\res\\drawable\\button_primary.xml"
+    },
+    {
+        "merged": "D:\\keycloak\\IMSIIMEI\\GradleCache\\app\\intermediates\\merged_res\\debug\\mipmap-xhdpi_clipboard.png.flat",
+        "source": "D:\\keycloak\\IMSIIMEI\\app\\src\\main\\res\\mipmap-xhdpi\\clipboard.png"
+    },
+    {
+        "merged": "D:\\keycloak\\IMSIIMEI\\GradleCache\\app\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\keycloak\\IMSIIMEI\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\keycloak\\IMSIIMEI\\GradleCache\\app\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_clipboard.png.flat",
+        "source": "D:\\keycloak\\IMSIIMEI\\app\\src\\main\\res\\mipmap-xxhdpi\\clipboard.png"
+    },
+    {
+        "merged": "D:\\keycloak\\IMSIIMEI\\GradleCache\\app\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_clipboard.png.flat",
+        "source": "D:\\keycloak\\IMSIIMEI\\app\\src\\main\\res\\mipmap-xxxhdpi\\clipboard.png"
+    },
+    {
+        "merged": "D:\\keycloak\\IMSIIMEI\\GradleCache\\app\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\keycloak\\IMSIIMEI\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\keycloak\\IMSIIMEI\\GradleCache\\app\\intermediates\\merged_res\\debug\\mipmap-hdpi_clipboard.png.flat",
+        "source": "D:\\keycloak\\IMSIIMEI\\app\\src\\main\\res\\mipmap-hdpi\\clipboard.png"
+    },
+    {
+        "merged": "D:\\keycloak\\IMSIIMEI\\GradleCache\\app\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\keycloak\\IMSIIMEI\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
