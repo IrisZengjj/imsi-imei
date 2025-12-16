@@ -31,17 +31,17 @@ SimInfoActivity：展示SIM卡及网络相关信息。
 
 ## 🛠️开发环境及版本配置
 ### 开发环境
-**IDE**: Android Studio (Koala 2024.1.2)
-**JDK/JVM**：JDK 11
-**Java Compatibility**：Java 8 (1.8)
-**Gradle Wrapper**：7.0.2	
-**Android Gradle Plugin**：7.0.2	
-**Kotlin Version**：1.7.10
+#### IDE: Android Studio (Koala 2024.1.2)
+#### JDK/JVM：JDK 11
+#### Java Compatibility：Java 8 (1.8)
+#### Gradle Wrapper：7.0.2	
+#### Android Gradle Plugin：7.0.2	
+#### Kotlin Version：1.7.10
 
-## SDK版本配置
-**Compile SDK**: API 30 (Android 11)
-**Target SDK**: API 30 (Android 11)
-**Min SDK**: API 26 (Android 8.0)
+### SDK版本配置
+#### Compile SDK: API 30 (Android 11)
+#### Target SDK: API 30 (Android 11)
+#### Min SDK: API 26 (Android 8.0)
 
 ## 🛠️权限说明
 ### 隐私权限适配
@@ -53,8 +53,8 @@ SimInfoActivity：展示SIM卡及网络相关信息。
 ```bash
 # 解除隐藏 API 调用限制
 adb shell settings put global hidden_api_policy 1
-
-# 📂项目结构
+```
+### 📂项目结构
 src/
 ├── main/
 │   ├── java/com/imsi/imei/activities/
