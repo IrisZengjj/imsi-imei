@@ -43,7 +43,7 @@ Compile SDK: API 30 (Android 11)
 Target SDK: API 30 (Android 11)  
 Min SDK: API 26 (Android 8.0)
 
-## 🛠️权限说明
+## ⚙️权限说明
 ### 隐私权限适配
 本项目涉及设备指纹（IMEI, SN等）的高精度采集。受 Android 10 (API 29+) 隐私沙盒机制限制，非系统应用无法直接获取此类信息。本项目采用以下技术方案规避限制：
 1.  **系统级集成**：依赖终端公司提供的定制 SDK (`.jar`)，并通过 **PAC 刷机** 将应用提升为系统级权限。  
